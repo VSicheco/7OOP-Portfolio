@@ -16,6 +16,8 @@
   </table>
 </div> 
 
+---
+
 <div>
   <h3>🧠 About Me</h3>
   <p>🎓 2nd-year CS student</p>
@@ -24,12 +26,16 @@
   <p>📘 Currently exploring Python, Java, and C</p>
 </div>
 
+---
+
 <div>
   <h3>😵 Areas of Interest</h3>
   <p>🍼 Embedded Programming </p>
   <p>☢️ Cooking </p>
-  <p>👯 Alpaca and capybara</p>
+  <p>👯 Alpacas and capybaras</p>
 </div>
+
+---
 
 <div>
   <h3>🧰 Languages</h3>
@@ -40,17 +46,23 @@
   </div>
 </div>
 
+---
+
 <div>
   <h3>💬 Project Links</h3>
   <p>Project 1</p>
   <p>Project 2</p>
 </div>
 
+---
+
 <div>
   <h3>⛷️ Fun Facts About Me</h3>
   <p>One of my favorite past times was walking</p>
   <p></p>
 </div>
+
+---
 
 <div>
   <h3>👤 Contact Me</h3>
