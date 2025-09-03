@@ -1,15 +1,20 @@
-# 7OOP-Portfolio
-Portfolio for 7OOP compliance
+<h1 align="center>
+  Sicheco's 7OOP Portfolio
+</h1>
 
-<!-- Profile Image -->
-<img align="left" src="images/iyot.jpg" width="150" style="border-radius: 50%;"/>
-
-# Hi there! 👋  
-### I'm a 2nd-year IT student studying Bachelor of Science in Computer Science  
-
-I'm passionate about learning new technologies, building cool projects, and continuously improving my skills in software development and problem-solving.
-
----
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <img src="images/iyot.jpg" width="100" border="2" style="border-color:white; border-radius:50%;">
+      </td>
+      <td>
+        <h2>Hi there!👋 I'm Vincent</h2>
+        <h3> I am 2nd-year BSCS student passionate about continuous learning. It has always been my goal to be able to live without working.</h3>
+      </td>
+    </tr>
+  </table>
+</div> 
 
 ## 🧠 About Me
 🎓 2nd-year CS student
