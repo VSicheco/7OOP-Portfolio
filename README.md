@@ -51,13 +51,21 @@
 <div>
   <h3>💬 Project Links</h3>
   <a href="projects/001_MPT1.pdf" target="_blank">Midterm Paired Task 1</a>
+  <br>
   <a href="projects/002_MLT1.pdf" target="_blank">Midterm Lab Task 1</a>
+  <br>
   <a href="projects/003_MLT2.pdf" target="_blank">Midterm Lab Task 2</a>
+  <br>
   <a href="projects/004_MLT3.py" target="_blank">Midterm Lab Task 3</a>
+  <br>
   <a href="projects/005_MLT4.py" target="_blank">Midterm Lab Task 4</a>
+  <br>
   <a href="projects/006_MLT5_testUser.py" target="_blank">Midterm Lab Task 5 - Test User</a>
+  <br>
   <a href="projects/006_MLT5_user.py" target="_blank">Midterm Lab Task 5 - User</a>
+  <br>
   <a href="projects/007_MLT6.pdf" target="_blank">Midterm Lab Task 6</a>
+  <br>
 </div>
 
 ---
