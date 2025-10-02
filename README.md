@@ -30,9 +30,9 @@
 
 <div>
   <h3>😵 Areas of Interest</h3>
-  <p>🍼 Embedded Programming </p>
+  <p>🍼 Eating</p>
   <p>☢️ Cooking </p>
-  <p>👯 Alpacas and capybaras</p>
+  <p>👯 Sleep</p>
 </div>
 
 ---
@@ -50,15 +50,21 @@
 
 <div>
   <h3>💬 Project Links</h3>
-  <p>Project 1</p>
-  <p>Project 2</p>
+  <a href="projects/001_MPT1.pdf" target="_blank">Midterm Paired Task 1</a>
+  <a href="projects/002_MLT1.pdf" target="_blank">Midterm Lab Task 1</a>
+  <a href="projects/003_MLT2.pdf" target="_blank">Midterm Lab Task 2</a>
+  <a href="projects/004_MLT3.py" target="_blank">Midterm Lab Task 3</a>
+  <a href="projects/005_MLT4.py" target="_blank">Midterm Lab Task 4</a>
+  <a href="projects/006_MLT5_testUser.py" target="_blank">Midterm Lab Task 5 - Test User</a>
+  <a href="projects/006_MLT5_user.py" target="_blank">Midterm Lab Task 5 - User</a>
+  <a href="projects/007_MLT6.pdf" target="_blank">Midterm Lab Task 6</a>
 </div>
 
 ---
 
 <div>
   <h3>⛷️ Fun Facts About Me</h3>
-  <p>One of my favorite past times was walking</p>
+  <p>Once got hospitalized because i ate thumbstacks</p>
   <p></p>
 </div>
 
