@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td>
-        <img src="images/iyot.jpg" width="150" border="2" style="border-color:white; border-radius:50%;">
+        <img src="images/profile.jpg" width="150" border="2" style="border-color:white; border-radius:50%;">
       </td>
       <td>
         <h3>Hi there!👋 I'm Vincent</h3>
