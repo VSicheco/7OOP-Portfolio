@@ -50,9 +50,7 @@
 <div>
   <div>
     <h3>💬 Project Links</h3>
-    <br>
     <p>Midterm Projects</p>
-    <br>
     <a href="projects/midterm/001_MPT1.pdf" target="_blank">Midterm Paired Task 1</a>
     <br>
     <a href="projects/midterm/002_MLT1.pdf" target="_blank">Midterm Lab Task 1</a>
@@ -69,13 +67,10 @@
     <br>
     <a href="projects/midterm/007_MLT6.pdf" target="_blank">Midterm Lab Task 6</a>
     <br>
-    <br>
   </div>
 
   <div>
-    <br>
     <p>Final Projects</p>
-    <br>
     <a href="projects/finals/008_FLT1.pdf" target="_blank">Finals Lab Task 1</a>
     <br>
     <a href="projects/finals/009_FLT2.pdf" target="_blank">Finals Lab Task 2</a>
@@ -85,8 +80,6 @@
     <a href="projects/finals/010.5-python_gui_domain_expansion" target="_blank">Python GUI</a>
     <br>
     <a href="projects/finals/011_FLT4_simple_calc" target="_blank">Finals Lab Task 4</a>
-    <br>
-    <p>Final Lab Task 5 - Lost Media</p>
     <br>
     <a href="projects/finals/013_FLT6.pdf" target="_blank">Finals Lab Task 6</a>
     <br>
